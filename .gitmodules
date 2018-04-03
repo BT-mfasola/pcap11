@@ -12,3 +12,8 @@
 	path = ext/mis-builder
 	url = git@github.com:OCA/mis-builder.git
 	branch = 11.0
+
+[submodule "ext/product-attribute"]
+	path = ext/product-attribute
+	url = git@github.com:brain-tec/product-attribute.git
+	branch = 11.0
