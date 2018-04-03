@@ -7,3 +7,8 @@
 	path = ext/reporting-engine
 	url = git@github.com:brain-tec/reporting-engine.git
 	branch = 11.0
+
+[submodule "ext/mis-builder"]
+	path = ext/mis-builder
+	url = git@github.com:OCA/mis-builder.git
+	branch = 11.0
